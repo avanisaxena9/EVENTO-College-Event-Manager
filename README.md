@@ -1,4 +1,4 @@
-# EVENTO-College-Event-Manager
+# EVENTO: College Event Manager
 
 - PROBLEM DESCRIPTION  
 Every university, whether big or small, has challenges to overcome in terms 
