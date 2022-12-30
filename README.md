@@ -12,7 +12,7 @@ the event because they have not been broadcasted correctly or the reach is
 low.  
 The human resources required in the management of all the information of 
 the participants’ also increases. This system often leads to a communication gap 
-between the event managers and the students.
+between the event managers and the students
 
 - PROJECT AIM  
 The “EVENTO: College Event Manager” application has been developed to 
