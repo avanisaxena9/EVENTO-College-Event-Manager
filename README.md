@@ -1,7 +1,7 @@
 # EVENTO: College Event Manager
 
 - PROBLEM DESCRIPTION  
-Every university, whether big or small, has challenges to overcome in terms 
+Every university faces certain challenges to overcome in terms 
 of managing the information of an event, its related services, registration, 
 result declaration, etc. For almost all events that are organized by 
 universities, all work is done by hand. The traditional system allows the 
