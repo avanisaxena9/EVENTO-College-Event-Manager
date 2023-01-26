@@ -25,7 +25,7 @@ This system aims to help the organization in better utilization of resources.
 Additionally, it provides a user-friendly interface and enables managers to 
 access all the information that can be handled only by them making the system 
 secure. In this manner, the managers can focus more on other activities than 
-record keeping.
+record keeping.  
 
 - PROJECT DESCRIPTION  
 The purpose of the “EVENTO: College Event Manager” System is to 
@@ -37,7 +37,7 @@ available and easy to work with.
 This application is built to provide an interface where the students can find all 
 the information about an event in one place and register themselves for the 
 particular event. the admins can access all the information and use it to their 
-requirements. the students can also check their results for the various events.
+requirements. the students can also check their results for the various events.  
 
 - Deployed project link:  
 https://eventoiips.000webhostapp.com/index.php
