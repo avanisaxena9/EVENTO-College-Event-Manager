@@ -7,7 +7,7 @@ result declaration, etc. For almost all events that are organized by
 universities, all work is done by hand. The traditional system allows the 
 participation of an eligible student and the information about him/her is 
 stored manually by using a file system.  
-The student community is also at most times unaware of all the details about 
+The student community is also at most times unaware of all the detail about 
 the event because they have not been broadcasted correctly or the reach is 
 low.  
 The human resources required in the management of all the information of 
